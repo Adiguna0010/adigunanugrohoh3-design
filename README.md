@@ -1,4 +1,4 @@
-![adi](img/A1.png)
+![adi](img/BannerA.png)
 
 # Hi there 👋
 I'm a developer and designer passionate about building innovative digital solutions with great user experience.
